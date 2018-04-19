@@ -2,8 +2,7 @@
    Send, CJL_ADMIN{Tab}CJL_ADMIN`t
 Return
 
-::u::You
-::m::Manjunath B M
+
 
 ::d::
 FormatTime, CurrentDate,, MM/dd/yyyy  
